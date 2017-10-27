@@ -2,19 +2,19 @@
 
 Taller de extracción de datos para periodistas.
 
-Seguiremos el siguiente guión:
+El taller tiene la siguiente estructura (aproximada)
 
-1. Cómo enfocar un proyecto de datos.
+1. Cómo enfocar un [proyecto de datos](https://jj.github.io/extrayendo-datos/proyecto.html).
    1. Planificación y automatización.
    2. Uso de herramientas de gestión de proyectos colaborativos como GitHub
-1. Cómo se encuentran los datos: formatos y demás.
-2. Dónde encontrar datos y qué se puede hacer con ellos. Licencias y
+   2. Dónde encontrar datos y qué se puede hacer con ellos. Licencias y
    permisos.
-3. Qué es un API y en qué me beneficia.
-3. Pequeña intro a la programación para trabajar con datos.
-4. Cómo extraer datos de la web.
-   1. HTML y DOM
-   2. Herramientas de scraping online.
-5. Cómo procesar los datos.
-6. Cómo presentar los datos.
+1. Cómo se encuentran los datos: [formatos](https://jj.github.io/extrayendo-datos/formatos.html) y demás.
+   1. Codificación de datos: diferentes tipos de formatos disponibles.
+   2. Análisis de datos exploratorios con herramientas gratuitas.
+3. Pequeña intro a la [programación](https://jj.github.io/1line-py/mini.html) para trabajar con datos.
+   5. Cómo procesar los datos.
+   6. Como [trabajar con JSON](https://jj.github.io/extrayendo-datos/procesando.html).
+6. Cómo [presentar](https://jj.github.io/extrayendo-datos/) los datos.
 
+El antepenúltimo  y el penúltimo apartado se pueden suprimir si es necesario. En el resto, procédase a la [presentación](https://jj.github.io/extrayendo-datos)

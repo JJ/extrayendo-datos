@@ -2,7 +2,9 @@
 
 Taller de extracción de datos para periodistas.
 
-El taller tiene la siguiente estructura (aproximada)
+Descargados datos medioambientales de http://mapas.valencia.es/WebsMunicipales/uploads/atmosferica/6A.csv
+
+Seguiremos el siguiente guión:
 
 1. Cómo enfocar un [proyecto de datos](https://jj.github.io/extrayendo-datos/proyecto.html).
    1. Planificación y automatización.
